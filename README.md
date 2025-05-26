@@ -1,0 +1,1 @@
+deploy cu docker-compose
